@@ -1,2 +1,2 @@
 # MachineLearningProject
-This is my first application of machine learning which I have learnt about.
+This is my very first application about machine learning.
